@@ -44,3 +44,11 @@
 - Active solutions bidrag
   - Om vi fortsätter arbeta med dem, så är vi intresserade av någon som kan främst hantera frontend och backend bitar som berör användargränssnitt och integrering mot våra system
     - Isåfall Peter som kan både React.js och DotNet.
+   
+Intresting pocs to consider:
+https://github.com/hwchase17/conversation-qa-gradio/blob/master/app.py
+https://github.com/hwchase17/conversational-retrieval-agent/blob/master/streamlit.py
+https://github.com/hwchase17/chat-your-data/blob/master/query_data.py
+https://github.com/HumanSignal/label-studio-examples/blob/master/question-answering-system/chatbot.py
+https://www.youtube.com/watch?v=iFvCZD4iS2w
+https://github.com/FrancescoSaverioZuppichini/gradioGPT/blob/main/src/app.py
