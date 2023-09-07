@@ -1,0 +1,11 @@
+ruff 
+black
+tiktoken
+openai
+cohere
+pypdf
+langchain
+python-dotenv
+chromadb
+weaviate-client
+pandas

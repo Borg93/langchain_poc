@@ -1,0 +1,129 @@
+﻿Digital arkivassistent, hackweeks, Riksarkivet och Active Solution
+Närvarande:
+Gabriel Borg, Riksarkivet
+David Haskiya, Riksarkivet (Dag 1)
+Erik Lenas, Riksarkivet
+Alan Smith, Active Solution
+Peter Örneholm, Active Solution
+Frågor relaterade till invandring och arkivguiden Källor till invandringens historia
+Fråga och svar 1
+
+
+Fråga:
+Jag har en släkting som flydde över till Sverige i slutet av andra världskriget (d v s 1944 eller början av 1945) och ska ha kommit via de vita bussarna* (eller på annat sätt). Finns det någon information kring hen, var kommer hen ifrån? Var placerades personen i Sverige? Finns det även bilder?
+
+
+Svar: Det kan finnas information kring detta i Statens utlänningskommissions arkiv, de så kallade SUK-akterna (1944-1969). Se särskilt serierna, Statens utlänningskommissions arkiv, kanslibyrån, centralregister över utlänningar (D2AA). Även serien F1, Centraldossiéer över utlänningar, kan vara av intresse. 
+
+
+Se s.19 samt 155ff i arkivguiden “Källor till invandringens historia 1840-200”.
+
+
+* Våren och sommaren 1945 överfördes till Sverige genom Bernadotteinsatserna (»de vita bussarna«, Svenska Röda Korset) och UNRRA-aktionerna ungefär 30 000 personer bland annat från koncentrationsläger i Tyskland.
+F.d. koncentrationslägerfångar, »Rödakors-flyktingar«, »Vita bussarna«: – namnlistor över personer som kom med rödakors- och UNRRA-transporterna i Statens utlänningskommissions kontrollbyrås efterforskningsavdelning – inrese- och (i förekommande fall) utresekort eller viseringsansökningar i Statens utlänningskommissions passbyrå – Statens utlänningskommissions lägerarkiv – centraldossierer i Statens utlänningskommissions kanslibyrå (om personen stannade i Sverige mer än några månader) – sjukjournaler m.m. i Medicinalstyrelsen: 1945 års flyktingsjukvård – Judiska (Mosaiska) församlingen i Stockholm, stort arkivmaterial [Riksarkivet Arninge]; tillstånd från församlingen krävs – register i länsstyrelsens i Malmöhus län arkiv [Landsarkivet i Lund] – register och handlingar i Civilförsvarsstyrelsens arkiv [Krigsarkivet] – transportlistor och förhörsrapporter i Malmöpolisens arkiv [Malmö stadsarkiv]
+
+
+Fråga och svar 2
+
+
+Fråga: Min farfar flydde från Norge under den tyska ockupationen (1940-1945). Finns det bevarade uppgifter som visar var han först placerades och när han fick svenskt medborgarskap?
+
+
+Svar: Man bör då börja med följande arkiv; Arkiv, Handlingar om nordiska flyktingar Socialstyrelsen och Statens utlänningskommissions arkiv som förvaras på Riksarkivet Marieberg. Centraldossierer över utlänningar (se s.68  i arkivguiden “Källor till invandringens historia 1840-200”), nordiska medborgares arbets- (–hösten 1943) och uppehållstillstånd. Socialstyrelsens utlänningsbyrå resp. hemliga arkiv: utlänningsärenden, liggare och andra serier ang. flyktingar från Norge och Danmark. Arkivet efter Kjesätersförläggningen, mottagningscentral för norska flyktingar i Sverige. 
+
+
+Beträffande detta och andra utlänningsförläggningars arkiv se s.178 i arkivguiden “Källor till invandringens historia 1840-200”.
+Fråga och svar 3
+Fråga: Min farfar kom till Sverige 1944 som flykting från Estland. Vi tror han hamnade i ett läger på Värmdö. Har ni arkiv där han skulle kunna vara registrerad?
+
+
+Svar:
+För baltiska flyktingar anordnades en mottagningscentral i Kummelnäs på Värmdö. Denna fick ett antal annex, men dessa räckte inte till, varför Kungl. Maj:t hösten 1944 beslutade att Statens utrymningskommission(fr.o.m. 1 oktober 1944 Civilförsvarsstyrelsen) skulle ombesörja mottagandet av flyktingar från de baltiska länderna och Finland. För dessa flyktingar anordnades därefter ett stort antal mottagningsläger, så kallade karantänsläger.
+
+
+Arkiv från lägren finns i Statens utlänningskommissions arkiv, serien “Statens utlänningskommission Andra världskrigets lägerarkiv”. Det finns i på Riksarkivet i Täby som du kan besöka. Här kommer en länk till serien där du kan läsa mer och se namnen på alla läger, https://sok.riksarkivet.se/arkiv/yo7Bq5lDQeZJW0018W43t3 
+
+
+Du kan också läsa mer på sidorna 162 och 176-179 i arkivguiden “Källor till invandringens historia 1840-200”.
+
+
+________________
+ChatGPT 3.5s förslag på schema
+Please adjust the agenda further to meet any specific needs or requirements of your hackdays.[a] The one-week break between the two sets of hackdays will allow teams to reflect on their progress, gather feedback, and make improvements for the second set of hackdays.
+Set 1: Hackdays 1-4
+Day 1: Tuesday - Project Introduction and Ideation
+* 09:00 - 09:30: Welcome and Introductions
+* 09:30 - 10:00: Opening Remarks and Project Overview - David
+* 10:00 - 10:30: Introduction to Archival Research Assistant Concept - David
+* 10:30 - 10:45: Coffee Break
+* 10:45 - 11:15: Brainstorming Session for Feature Ideas and Use Cases - All
+* 11:15 - 12:00: Getting started
+* 12:30 - 13:30: Lunch and Getting to know each other
+Day 2: Wednesday - Design and Planning
+* 09:00 - 09:15: Recap of Day 1 and Agenda Overview
+* 09:15 - 09:45: Deep Dive into User Personas and Needs
+* 09:45 - 10:15: Defining MVP (Minimum Viable Product) and Project Scope
+* 10:15 - 10:30: Coffee Break
+* 10:30 - 11:00: Wireframing and UI/UX Design Considerations
+* 11:00 - 11:30: Technology Stack Selection and Infrastructure Setup
+* 11:30 - 12:00: Task Allocation and Roadmap Planning
+* 12:30 - 13:30: Lunch and Collaborative Design Discussions
+Day 3: Thursday - Development and Implementation
+* 09:00 - 09:15: Recap of Day 2 and Agenda Overview
+* 09:15 - 09:45: Setting Up Development Environments
+* 09:45 - 10:15: Backend and Frontend Development Kickoff
+* 10:15 - 10:30: Coffee Break
+* 10:30 - 11:00: Continuous Integration and Deployment Strategies
+* 11:00 - 12:30: Collaborative Coding Session (Pair Programming, Code Reviews)
+* 12:30 - 13:30: Lunch and Progress Check-In
+Day 4: Friday - Testing, Refinement, and Presentations
+* 09:00 - 09:15: Recap of Day 3 and Agenda Overview
+* 09:15 - 09:45: Quality Assurance and Testing Strategies
+* 09:45 - 10:15: Iterative Development and Feedback Incorporation
+* 10:15 - 10:30: Coffee Break
+* 10:30 - 12:30: Prototype Refinement and Bug Fixing
+* 12:30 - 13:00: Demo and Discussionw
+* 13:00 - 14:00: Lunch and Conversation about next steps
+One-Week Break
+TODO Set 2: Hackdays 5-7
+Day 1: Monday - Recap, Review and Continued Development
+* 09:00 - 09:30: Recap of Set 1
+* 09:30 - 10:00: 
+* 10:00 - 10:30: 
+* 10:30 - 10:45: Coffee Break
+* 10:45 - 11:15: 
+* 11:15 - 12:00: 
+* 12:30 - 13:30: Lunch
+Day 2: Tuesday - Continued development
+* 09:00 - 09:15: Recap of Day 1 and Agenda Overview
+* 09:15 - 09:45: 
+* 09:45 - 10:15: 
+* 10:15 - 10:30: Coffee Break
+* 10:30 - 11:00: 
+* 11:00 - 11:30: 
+* 11:30 - 12:00: 
+* 12:30 - 13:30: Lunch
+Day 3: Wednesday - Demo, Review and Retrospective
+* 09:00 - 09:30: Recap of Day 2 and Scoping the last day
+* 09:30 - 10:15: Last development tweaks
+* 10:15 - 10:30: Coffee Break
+* 10.30 - 11.30: Final testing
+* 11:30 - 12:30: Prepping the demos
+* 12:30 - 13:30: Lunch
+* 13:30 - 15:00: Demos, analyses and discussions over coffee
+* 15:00 - 16:00: Potential future developments
+* 16:00 - 16:30: Project Review and Next Steps Discussion
+
+
+
+
+
+
+
+
+Lärdomar
+
+
+Saker som vi gör undantag för i POCen
+* Ingen perfekt matchning
+[a]Jag har gjort det lite, men Work in Progress!
