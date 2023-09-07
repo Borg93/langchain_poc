@@ -46,9 +46,12 @@
     - Isåfall Peter som kan både React.js och DotNet.
    
 Intresting pocs to consider:
+
 https://github.com/hwchase17/conversation-qa-gradio/blob/master/app.py
 https://github.com/hwchase17/conversational-retrieval-agent/blob/master/streamlit.py
 https://github.com/hwchase17/chat-your-data/blob/master/query_data.py
 https://github.com/HumanSignal/label-studio-examples/blob/master/question-answering-system/chatbot.py
 https://www.youtube.com/watch?v=iFvCZD4iS2w
 https://github.com/FrancescoSaverioZuppichini/gradioGPT/blob/main/src/app.py
+course of intreset:
+https://learn.mlops.community/courses/llms/introduction-to-qa-systems-with-large-language-models-llms/
